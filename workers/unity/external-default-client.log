@@ -1,0 +1,112 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Generated.Code.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Generated.Code.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Improbable.WorkerSdkCsharp.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Improbable.WorkerSdkCsharp.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Improbable.WorkerSdkCsharp.Framework.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Improbable.WorkerSdkCsharp.Framework.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\log4net.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\log4net.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Newtonsoft.Json.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Newtonsoft.Json.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\protobuf-net.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\protobuf-net.dll into Unity Child Domain
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Threading.dll (this message is harmless)
+Loading D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Threading.dll into Unity Child Domain
+- Completed reload, in  0.104 seconds
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Xml.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.381774 ms
+Command line build/worker/UnityClient@Windows/UnityClient@Windows.exe +assemblyName local_assembly +engineType UnityClient +infraServicesUrl http://127.0.0.1:21000 +appName alpha_venus_july_708 -logfile external-default-client.log
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+WorkerConfiguration settings
+AppName = alpha_venus_july_708
+AssemblyName = local_assembly
+DeploymentId = 
+DeploymentTag = prod
+EngineId = UnityClient797e863b-c9b3-47d1-8424-778a13f3c552
+EnginePlatform = Client
+EntityCreationLimitPerFrame = 100
+InfraServiceUrl = http://127.0.0.1:21000
+Ip = 127.0.0.1
+LinkProtocol = RakNet
+Log4NetConfigXml = log4net-default.xml
+LoginToken = 
+MetaData = System.Collections.Generic.Dictionary`2[System.String,System.String]
+Port = 7777
+ProtocolLoggingOnStartup = False
+ProtocolLogPrefix = protocol-
+ProtocolLogMaxFileBytes = 104857600
+RaknetHeartbeatTimeoutMillis = 10000
+ReceiveQueueCapacity = 32768
+SendQueueCapacity = 16384
+ShowDebugTraces = False
+SteamToken = 
+TcpMultiplexLevel = 32
+UseInstrumentation = True
+UsePerInstanceAssetCache = True
+UsePrefabPooling = False
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Configuration.dll (this message is harmless)
+ClientMetrics OS=Windows 10  (10.0.0) 64bit.
+Processor: type Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz, cores 4.
+Graphics: id 5019, vendor 4318, name NVIDIA GeForce GTX 960M, size 2018.
+Memory: 12199.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Xml.Linq.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Data.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Transactions.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Mono.Data.Tds.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.ServiceModel.dll (this message is harmless)
+Bootstrap connected to SpatialOS, finding player spawner...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Bootstrap found player spawner with entity id: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Web.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.IdentityModel.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Security.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Messaging.dll (this message is harmless)
+Platform assembly: D:\Naga\Temp\PiratesTutorial\workers\unity\build\worker\UnityClient@Windows\UnityClient@Windows_Data\Managed\System.Web.Services.dll (this message is harmless)
+Bootstrap created a player entity with ID: 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unable to find shaders used for the terrain engine. Please include Nature/Terrain/Diffuse shader in Graphics settings.
+ 
+(Filename:  Line: 384)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1e48 -> priority: 1 
