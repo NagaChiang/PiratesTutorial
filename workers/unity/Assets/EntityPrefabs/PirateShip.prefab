@@ -31,6 +31,8 @@ GameObject:
   - 114: {fileID: 114000014179605780}
   - 114: {fileID: 114000012938219408}
   - 114: {fileID: 114000012598071580}
+  - 114: {fileID: 114000012221551788}
+  - 114: {fileID: 114000011296933070}
   m_Layer: 0
   m_Name: PirateShip
   m_TagString: Untagged
@@ -533,6 +535,28 @@ Animation:
   m_PlayAutomatically: 0
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!114 &114000011296933070
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 554008e5f24f74f4e838ce364b9d5467, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114000012221551788
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107220}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f1aabc1ac8d37b43839a74ba807a79e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114000012598071580
 MonoBehaviour:
   m_ObjectHideFlags: 1
